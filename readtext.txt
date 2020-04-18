@@ -1,0 +1,8 @@
+Sources used in completing Project
+
+http://queirozf.com/entries/pandas-dataframe-examples-manipulating-date-and-time
+
+https://stackoverflow.com/questions/50848454/pulling-most-frequent-combination-from-csv-columns
+
+Udacity Practice problems
+
